@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Sauna Heater Size Table"
+abstract: >-
+  Electric sauna heater power in kW for rooms of 3 to 30 cubic meters, with
+  0 to 4 square meters of uninsulated glass or stone and with or without bare
+  log walls, computed from Harvia and HUUM published sizing rules. A
+  rule-of-thumb reference, not an engineering specification.
+authors:
+  - name: "DIVELUX"
+    website: "https://diveluxsaunahat.com"
+version: "1.0"
+date-released: "2026-11-21"
+url: "https://diveluxsaunahat.com/pages/sauna-tools"
+license: CC-BY-4.0
+keywords:
+  - sauna
+  - sauna heater
+  - heater sizing
+  - kilowatt
+  - room volume
